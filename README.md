@@ -1,8 +1,6 @@
 # Hello! 👋🏾
 
-I am a Software Engineer and Tech Enthusiast. 
-
-**My Summary**:
+I am a software engineer and tech enthusiast. 
 
 - I work with JavaScript, Nodejs, and Mongodb.
 - I am looking for internships and entry-level opportunities.
