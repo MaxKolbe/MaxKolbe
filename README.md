@@ -119,7 +119,7 @@ RAG-powered document Q&A system built around semantic retrieval, embeddings, LLM
 
 **Focus:** RAG · pgvector · OpenAI · MCP · Redis
 
-<a href="https://github.com/MaxKolbe/DocuChat">View Project →</a>
+<a href="https://github.com/MaxKolbe/DocuChat">View Project</a>
 
 </td>
 
@@ -131,37 +131,11 @@ Production backend platform featuring authentication, dashboards, notifications,
 
 **Focus:** TypeScript · PostgreSQL · Drizzle · Redis · BullMQ
 
-<a href="https://github.com/MaxKolbe">View Projects →</a>
+<a href="https://github.com/MaxKolbe">View Project</a>
 
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<a href="https://github.com/MaxKolbe">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxKolbe&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Maxmillian's GitHub Stats"/>
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/MaxKolbe">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxKolbe&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
 
 ## GitHub Activity
 
@@ -175,7 +149,7 @@ Production backend platform featuring authentication, dashboards, notifications,
 
 ## Connect
 
-<p align="center">
+<p align="left">
   <a href="mailto:maximilianogbuabor@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
