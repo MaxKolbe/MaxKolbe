@@ -139,11 +139,11 @@ Production backend platform featuring authentication, dashboards, notifications,
 
 ## GitHub Activity
 
-<p align="center">
+<!---<p align="center">
   <a href="https://github.com/MaxKolbe">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxKolbe&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
   </a>
-</p>
+</p> --->
 
 ---
 
